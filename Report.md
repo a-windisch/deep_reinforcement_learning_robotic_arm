@@ -7,7 +7,7 @@ This notebook contains the documentation for Project 2 of the [Deep Reinforcemen
 
 ### 0. Learning Algorithm
 
-In this project, I utilized the Deep Deterministic Policy Gradient (DDPG) )approach to train the Agent using discounting, neural networks for the Actor and the Critic, a common replay buffer shared by all Agents and gradient clipping for the training of the critic. The core implementation has already been used as an example in class. With implementing only small changes to the previous code, the algorithm trained the Agents successfully. In the following, let me discuss the ingredients in more detail.
+In this project, I utilized the Deep Deterministic Policy Gradient (DDPG) approach to train the Agent using discounting, neural networks for the Actor and the Critic, a common replay buffer shared by all Agents and gradient clipping for the training of the critic. The core implementation has already been used as an example in class. With implementing only small changes to the previous code, the algorithm trained the Agents successfully. In the following, let me discuss the ingredients in more detail.
 
 #### Neural Networks
    
